@@ -1,0 +1,17 @@
+# YOLO Dataset Configuration
+# Generated automatically
+
+path: dataset_yolo  # dataset root dir
+train: images/train    # train images
+val: images/val        # val images
+test: images/test      # test images
+
+# Classes
+nc: 2  # number of classes
+names: ['weed', 'spikelet']    # class names
+
+# Download script/API (optional)
+# Example:
+# download: |
+#   from utils.general import download
+#   # Download labels
