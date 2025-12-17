@@ -7,11 +7,11 @@ yolo11x.pt
 
 runs.zip
 
-runs/detect/yolov11n_200e/weights
-runs/detect/yolov11s_200e/weights
-runs/detect/yolov11m_200e/weights
-runs/detect/yolov11l_200e/weights
-runs/detect/yolov11x_200e/weights
+runs/detect/yolov11n_200e/weights/
+runs/detect/yolov11s_200e/weights/
+runs/detect/yolov11m_200e/weights/
+runs/detect/yolov11l_200e/weights/
+runs/detect/yolov11x_200e/weights/
 
 
 runs/
