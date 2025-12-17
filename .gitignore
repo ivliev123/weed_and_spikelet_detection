@@ -5,6 +5,7 @@ yolo11m.pt
 yolo11l.pt
 yolo11x.pt
 
+runs.zip
 
 runs/detect/yolov11n_200e/weights
 runs/detect/yolov11s_200e/weights
